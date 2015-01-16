@@ -6,7 +6,7 @@
 
 Want a site made in the most fucked way possible? Look no further.[View the source] of this page for more info.
 
-[View the source]: https://raw.github.com/brainbang/brainbang.github.com/master/index.html
+[View the source]: https://raw.githubusercontent.com/brainbang/brainbang.github.com/master/index.html
 
 Contact us [here]
 
