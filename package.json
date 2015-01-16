@@ -1,0 +1,21 @@
+{
+  "name": "brainbang.github.com",
+  "version": "0.0.0",
+  "description": "our company website",
+  "scripts": {
+    "start": "CODE=`./src/banger.js src/index.html` && sed s/%CODE%/$CODE/g src/template.html > ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brainbang/brainbang.github.com.git"
+  },
+  "keywords": [
+    "brainfuck"
+  ],
+  "author": "David Konsumer <konsumer@jetboystudio.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brainbang/brainbang.github.com/issues"
+  },
+  "homepage": "https://github.com/brainbang/brainbang.github.com"
+}
